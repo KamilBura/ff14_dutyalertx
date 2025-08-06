@@ -124,4 +124,4 @@ Designed for those who want peace of mind while multitasking, AFKing, or waiting
 <h2>📬 Feedback & Contributions</h2>
 
 <p>Feature suggestions, bug reports, and pull requests are welcome!</p>
-<p>Use the <a href="https://github.com/yourusername/DutyAlertX/issues">GitHub Issue Tracker</a> to report problems or request improvements.</p>
+<p>Use the <a href="https://github.com/KamilBura/ff14_dutyalertx/issues">GitHub Issue Tracker</a> to report problems or request improvements.</p>
