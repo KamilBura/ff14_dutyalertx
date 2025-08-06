@@ -30,7 +30,7 @@ Designed for those who want peace of mind while multitasking, AFKing, or waiting
   <li>Go to <code>Plugin Installer → Settings</code></li>
   <li>Add the following URL to the <b>"Custom Plugin Repositories"</b> section:
     <br><br>
-    <code>https://yourusername.github.io/DutyAlertX/plugin.json</code>
+    <code>W.I.P</code>
   </li>
   <li>Click "Save and Close"</li>
   <li>Search for <b>DutyAlertX</b> in the Plugin Installer and click "Install"</li>
